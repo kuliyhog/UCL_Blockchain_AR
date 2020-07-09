@@ -57,11 +57,13 @@ This project was bootstrapped with [Truffle Create React App](https://www.truffl
 ## 3. Starting the Nodejs Backend
 
   - In the api directory 
+  - Open up a terminal and do
     - `npm start`
 
 ## 4. Starting the React Frontend
 
   - In the client directory 
+  - Open up a separate termimal and do
     - `npm start`
     
 ## 5. Nodejs Backend Endpoints
